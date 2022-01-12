@@ -1,0 +1,279 @@
+1641605462372	geckodriver	INFO	Listening on 127.0.0.1:65408
+1641605465344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65409" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofile8H7DJ5"
+1641605465837	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofile8H7DJ5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65409/devtools/browser/557e89a6-fba6-4620-b877-d46fd5005552
+1641605467810	Marionette	INFO	Listening on port 65418
+1641605467968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641605918734	Marionette	INFO	Stopped listening on port 65418
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59593" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofileXpGsEH"
+1641605528844	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofileXpGsEH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59593/devtools/browser/c7824309-dc3e-46ef-a444-a64895dbb64f
+1641605530774	Marionette	INFO	Listening on port 59602
+1641605531209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641605916523	Marionette	INFO	Stopped listening on port 59602
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641605923211	geckodriver	INFO	Listening on 127.0.0.1:62136
+1641605926213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62137" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofileewzFHm"
+1641605926646	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofileewzFHm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62137/devtools/browser/2645b4e6-9871-44e3-8e5a-0ed76d22c33f
+1641605928463	Marionette	INFO	Listening on port 62146
+1641605928837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641606014894	Marionette	INFO	Stopped listening on port 62146
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641606016730	geckodriver	INFO	Listening on 127.0.0.1:52334
+1641606019730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52335" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofile1eYLfh"
+1641606019990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofile1eYLfh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52335/devtools/browser/6c43a1e9-9d68-4feb-bb36-f87c5226bb09
+1641606021865	Marionette	INFO	Listening on port 52345
+1641606022351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641606037016	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1641606127850	Marionette	INFO	Stopped listening on port 52345
+[Parent 19388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1641606137360	geckodriver	INFO	Listening on 127.0.0.1:59245
+1641606140362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59246" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofileyvyVnC"
+1641606141040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofileyvyVnC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59246/devtools/browser/f478db31-e83e-45c4-b87a-252d9e024725
+1641606143062	Marionette	INFO	Listening on port 59255
+1641606143497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641606157965	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641606316750	Marionette	INFO	Stopped listening on port 59255
+1641606329005	geckodriver	INFO	Listening on 127.0.0.1:54884
+1641606332010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54885" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofileh77hME"
+1641606332294	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofileh77hME\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54885/devtools/browser/4f80965b-e51e-4d25-9f52-a68dc3e9b541
+1641606334060	Marionette	INFO	Listening on port 54894
+1641606334138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641606346520	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:204:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1451:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1522:10
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:204:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:204:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1451:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1522:10
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:204:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+1641606623732	Marionette	INFO	Stopped listening on port 54894
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "--remote-debugging-port" "63706" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofilemFN8P6"
+1641606607005	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofilemFN8P6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63706/devtools/browser/851218c0-8eef-4fcf-99fc-ac8a44b36b76
+1641606608907	Marionette	INFO	Listening on port 63716
+1641606609357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641606630941	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641607113916	Marionette	INFO	Stopped listening on port 63716
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1641607118518	geckodriver	INFO	Listening on 127.0.0.1:53606
+1641607121516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53607" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofileyF4c3e"
+1641607121957	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofileyF4c3e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53607/devtools/browser/cb514ac0-9a08-4046-a28d-917296487a13
+1641607123716	Marionette	INFO	Listening on port 53615
+1641607124136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641607139500	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641607150034	Marionette	INFO	Stopped listening on port 53615
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641607607588	geckodriver	INFO	Listening on 127.0.0.1:58848
+1641607610593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58849" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofilebF5Cq4"
+*** You are running in headless mode.
+1641607611241	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofilebF5Cq4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58849/devtools/browser/47d07372-ef6e-4eac-8308-c5a1a18b801a
+1641607612355	Marionette	INFO	Listening on port 58856
+1641607612630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641607628075	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641607636330	Marionette	INFO	Stopped listening on port 58856
+1641607654051	geckodriver	INFO	Listening on 127.0.0.1:59011
+1641607657047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59012" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofileNRYRSB"
+*** You are running in headless mode.
+1641607657292	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofileNRYRSB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59012/devtools/browser/0e4eb30f-af91-40e7-83ce-a6a9b14d7d26
+1641607658213	Marionette	INFO	Listening on port 59019
+1641607658566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641607673383	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014A,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1641608340364	Marionette	INFO	Stopped listening on port 59019
+[Parent 16896, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ttings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofileVErIqm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60307/devtools/browser/0a7c09ce-ba9c-4003-bd93-ff2dd7eda17a
+1641607726637	Marionette	INFO	Listening on port 60316
+1641607727146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641607742353	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641607749893	Marionette	INFO	Stopped listening on port 60316
+[Parent 18132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641607772300	geckodriver	INFO	Listening on 127.0.0.1:60487
+1641607775286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60488" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofile0kbtHq"
+1641607775759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofile0kbtHq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60488/devtools/browser/b3a13498-122e-4d1c-9f30-3c28dd377df4
+1641607777819	Marionette	INFO	Listening on port 60498
+1641607777909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641607793556	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641607971387	Marionette	INFO	Stopped listening on port 60498
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641608032382	geckodriver	INFO	Listening on 127.0.0.1:63627
+1641608035375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63628" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofile1pqmvj"
+1641608035629	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofile1pqmvj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63628/devtools/browser/82548fdc-0312-4095-b220-343aee40bd52
+1641608037346	Marionette	INFO	Listening on port 63635
+1641608037414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641608051142	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641608058048	Marionette	INFO	Stopped listening on port 63635
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641608070527	geckodriver	INFO	Listening on 127.0.0.1:50507
+1641608073530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50508" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofiledy4cNa"
+1641608073790	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofiledy4cNa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50508/devtools/browser/322426a4-d928-4e3e-b029-a56e9bbeaa99
+1641608075694	Marionette	INFO	Listening on port 50514
+1641608076150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641608089045	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641608310703	Marionette	INFO	Stopped listening on port 50514
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16120, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641608445557	geckodriver	INFO	Listening on 127.0.0.1:53719
+1641608448561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53720" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofileqt56Pd"
+1641608448848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofileqt56Pd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53720/devtools/browser/62deaa2b-4dad-4ec9-8cb7-2991cee8cd70
+1641608450715	Marionette	INFO	Listening on port 53726
+1641608451185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641608466784	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641608475617	Marionette	INFO	Stopped listening on port 53726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641608502017	geckodriver	INFO	Listening on 127.0.0.1:61585
+1641608505008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61587" "-no-remote" "-profile" "C:\\Users\\祈LHL\\AppData\\Local\\Temp\\rust_mozprofilewCjOTl"
+1641608505449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\\u7948LHL\\AppData\\Local\\Temp\\rust_mozprofilewCjOTl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61587/devtools/browser/e5fdbbce-d193-49f8-99cd-79d144deeedf
+1641608507182	Marionette	INFO	Listening on port 61592
+1641608507628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641608521220	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1641608558282	Marionette	INFO	Stopped listening on port 61592
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000B,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...

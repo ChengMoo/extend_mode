@@ -175,7 +175,7 @@ def close_driver():
 if __name__ == '__main__':
     print("=================================================")
     print("start")
-    # time.sleep(random.uniform(random.uniform(0, 500), 1000))
+    time.sleep(random.uniform(random.uniform(0, 500), 1000))
     input_dependence()
     count = 0
     try:

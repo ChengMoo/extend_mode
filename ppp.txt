@@ -1,0 +1,1 @@
+https://www.proxyscan.io/download?type=socks5

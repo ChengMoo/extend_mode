@@ -1,0 +1,18 @@
+name: check
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
+jobs:
+  check:
+    runs-on: windows-2022
+    
+    steps:
+      - name: 'check' 
+        run: |
+          cmd /c curl -s -O https://raw.githubusercontent.com/spirit-lhl/Bzhan/main/B.py
+          cmd /c curl -s -O https://raw.githubusercontent.com/spiritLHL/Gecko_sign/master/chromedriver.exe
+          cmd /c curl -s -O https://raw.githubusercontent.com/spiritLHL/Gecko_sign/master/requirements.txt
+          cmd /c pip install -r requirements.txt
+          cmd /c python B.py

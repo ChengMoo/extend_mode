@@ -3,7 +3,7 @@ name: check
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/25 * * * *'
 jobs:
   check:
     runs-on: windows-2022
